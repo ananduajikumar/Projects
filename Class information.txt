@@ -1,0 +1,22 @@
+Class information:
+
+Heart Disease:
+0 : Based on the analysis of your health data, there is no indication of heart disease.
+1: Based on the analysis of your health data, there are indications of potential heart disease!!!!!.
+
+
+Alzheimer's disease:
+0 : Signs of Alzheimer's disease were found !!!!!. This means there may be memory or thinking issues that need further medical check-ups. It’s important to see a doctor for proper evaluation and care
+1: No signs of Alzheimer's disease were found. Your memory and thinking abilities seem normal. To keep your brain healthy, stay mentally active, eat well, exercise regularly, and go for routine check-ups.
+
+
+Diabetic Retinopathy:
+0: Early signs of Diabetic Retinopathy are present, but the condition is MILD. Regular eye exams and proper diabetes management can help prevent further progression.
+1: Your eye test shows moderate Diabetic Retinopathy, meaning some blood vessels in the retina are affected. Monitoring and managing your diabetes is crucial to prevent worsening of the condition.
+2: Your eye examination shows no signs of Diabetic Retinopathy. Your retina appears healthy, but regular check-ups are important to monitor your eye health.
+3: Severe Diabetic Retinopathy has been detected. There is a higher risk of vision loss, and immediate medical attention is advised. Consult an eye specialist for further evaluation and treatment options.
+
+
+Dataset links:
+Heart : 
+Diabetic Retinopathy: https://www.kaggle.com/datasets/sachinkumar413/diabetic-retinopathy-dataset
